@@ -3,5 +3,10 @@
 
 @import "";
 
-github:
-  is_project_page: false
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
